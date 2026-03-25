@@ -58,8 +58,8 @@
     "title": "Advisory",
     "schedule": [
       {"name": 1, "start": "7:45", "end": "9:05"},
-      {"name": "Advisory", "start": "9:12", "end": "9:48"},
-      {"name": 2, "start": "9:55", "end": "11:18"},
+      {"name": "Advisory", "start": "9:12", "end": "9:47"},
+      {"name": 2, "start": "9:54", "end": "11:18"},
       {"name": 3, "start": "11:25", "end": "12:40"},
       {"name": "Lunch", "start": "12:40", "end": "1:18"},
       {"name": 4, "start": "1:25", "end": "2:45"}
@@ -70,8 +70,8 @@
     "title": "Advisory",
     "schedule": [
       {"name": 5, "start": "7:45", "end": "9:05"},
-      {"name": "Advisory", "start": "9:12", "end": "9:48"},
-      {"name": 6, "start": "9:55", "end": "11:18"},
+      {"name": "Advisory", "start": "9:12", "end": "9:47"},
+      {"name": 6, "start": "9:54", "end": "11:18"},
       {"name": "Lunch", "start": "11:18", "end": "12:45"},
       {"name": 7, "start": "12:52", "end": "1:45"},
       {"name": 8, "start": "1:52", "end": "2:45"}
