@@ -78,7 +78,37 @@
     ]
   },
 
+  "Finals1": {
+    "title": "Finals 1",
+    "date": ["2026-"12-17", "2026-05-19"],
+    "schedule": [
+      {"name": 1, "start": "7:45", "end": "9:15"},
+      {"name": 2, "start": "9:22", "end": "10:52"},
+      {"name": 3, "start": "10:52", "end": "1:07"}
+    ]
+  },
 
+  "Finals2": {
+    "title": "Finals 2",
+    "date": ["2026-"12-18", "2026-05-20"],
+    "schedule": [
+      {"name": 5, "start": "7:45", "end": "9:15"},
+      {"name": 6, "start": "9:22", "end": "10:52"},
+      {"name": 7, "start": "10:52", "end": "1:07"}
+    ]
+  },
+
+  "Finals3": {
+    "title": "Finals 3",
+    "date": ["2026-"12-19", "2026-05-21"],
+    "schedule": [
+      {"name": 4, "start": "7:45", "end": "9:00"},
+      {"name": 8, "start": "9:00", "end": "10:30"}
+    ]
+  },
+
+
+  
   
   "PepRallyA": {
     "title": "Pep Rally",
@@ -101,32 +131,6 @@
       {"name": 7, "start": "11:20", "end": "12:40"},
       {"name": 8, "start": "12:45", "end": "2:05"},
       {"name": "Pep Rally", "start": "2:05", "end": "2:45"}
-    ]
-  },
-
-  "Finals1": {
-    "title": "Finals 1",
-    "schedule": [
-      {"name": 1, "start": "7:45", "end": "9:15"},
-      {"name": 2, "start": "9:22", "end": "10:52"},
-      {"name": 3, "start": "10:52", "end": "1:07"}
-    ]
-  },
-
-  "Finals2": {
-    "title": "Finals 2",
-    "schedule": [
-      {"name": 5, "start": "7:45", "end": "9:15"},
-      {"name": 6, "start": "9:22", "end": "10:52"},
-      {"name": 7, "start": "10:52", "end": "1:07"}
-    ]
-  },
-
-  "Finals3": {
-    "title": "Finals 3",
-    "schedule": [
-      {"name": 4, "start": "7:45", "end": "9:00"},
-      {"name": 8, "start": "9:00", "end": "10:30"}
     ]
   }
 }
