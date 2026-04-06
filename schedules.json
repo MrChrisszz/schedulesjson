@@ -109,7 +109,6 @@
 
   "Testing": {
     "title": "Testing",
-    "date": ["2025-04-15"],
     "schedule": [
       {"name": "Advisory", "start": "07:45", "end": "10:45"}
     ]
