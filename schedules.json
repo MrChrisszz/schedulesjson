@@ -93,7 +93,7 @@
     "date": ["2025-12-18", "2026-05-20"],
     "schedule": [
       {"name": 5, "start": "07:45", "end": "09:15"},
-      {"name": 6, "start": "9:22", "end": "10:52"},
+      {"name": 6, "start": "09:22", "end": "10:52"},
       {"name": 7, "start": "10:52", "end": "01:07"}
     ]
   },
@@ -104,6 +104,14 @@
     "schedule": [
       {"name": 4, "start": "07:45", "end": "09:00"},
       {"name": 8, "start": "09:00", "end": "10:30"}
+    ]
+  },
+
+  "Testing": {
+    "title": "Testing",
+    "date": ["2025-04-15"],
+    "schedule": [
+      {"name": "Advisory", "start": "07:45", "end": "10:45"}
     ]
   },
 
@@ -132,5 +140,7 @@
       {"name": 8, "start": "12:45", "end": "02:05"},
       {"name": "Pep Rally", "start": "02:05", "end": "02:45"}
     ]
-  }
+  },
+
+  "noSchool": ["2025-04-14"]
 }
